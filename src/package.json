@@ -17,7 +17,7 @@
         "isomorphic-fetch": "^2.2.1",
         "kdbxweb": "https://github.com/keeweb/kdbxweb.git#1.6.0",
         "morgan": "^1.5.1",
-        "pug": "^2.0.3",
+        "pug": "^3.0.0",
         "request": "^2.88.0",
         "socks-proxy-agent": "^5.0.0",
         "steem": "^0.7.1"
